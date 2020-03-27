@@ -1,5 +1,6 @@
 body {
-  font-family: "Calibri Light"
+  font-family: "Calibri Light";
+}
             
 #title {
   border-bottom: 2px solid rgb(196, 196, 196);
@@ -21,7 +22,7 @@ body {
 }
             
 .top {
-  font-family: "Calibri Light"
+  font-family: "Calibri Light";
   text-decoration: none;
   color: black;
   padding-left: 20px;
