@@ -2,24 +2,23 @@ body {
   font-family: "Calibri Light";
 }
             
- #title {
-   border-bottom: 2px solid rgb(196, 196, 196);
-   padding-bottom: 5px;
-   font-size: 30px;
+#title {
+  border-bottom: 2px solid rgb(196, 196, 196);
+  padding-bottom: 5px;
+  font-size: 30px;
 }
-.why-us {
+#about-us {
   font-weight: bold;
   font-size: 30px;
   text-align: center;
-                
 }
             
-.why-us-p {
+#about-us-text {
   text-align: center;
   width: 300px;
-  padding-left: 150px;
+                padding-left: 150px;
                 
-            }
+}
             
 .top {
   font-family: "Calibri Light";
@@ -27,13 +26,13 @@ body {
   color: black;
   padding-left: 20px;
   position: relative;
-  left: 170px;
   bottom: 50px;
 }
             
 a:hover {
   color: rgb(161, 159, 161);
-}
+  text-decoration: underline;
+ }
             
 .medium-img {
   width: 188px;
@@ -41,8 +40,13 @@ a:hover {
             
 .small-img {
   width: 88px;
-}
+            }
             
 .center {
   text-align: center;
+}     
+       
+#shop-now-text {
+  color: black;
+  text-decoration: none;
 }
