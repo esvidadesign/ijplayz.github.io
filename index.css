@@ -78,6 +78,6 @@
                 left: 2px;
                 bottom: 2px;
                 width: 10%;
-                background-color: rgb(250, 211, 113);
+                background-color: rgb(250, 211, 113, 0.5);
                 text-align: left;
             }
