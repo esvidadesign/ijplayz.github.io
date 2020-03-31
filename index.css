@@ -1,5 +1,5 @@
             body {
-                font-family: Corbel;
+                font-family: Corbel, "Calibri Light";
             }
             
             #title {
@@ -7,7 +7,7 @@
                 padding-bottom: 5px;
                 font-size: 30px;
                 font-weight: bold;
-                font-family: Corbel;
+                font-family: Corbel, "Calibri Light";
             }
             #about-us {
                 font-weight: bold;
