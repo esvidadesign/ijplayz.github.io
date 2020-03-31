@@ -72,3 +72,12 @@
                 padding-top: 10px;
                 padding-bottom: 10px;
             }
+            
+            #follow-msg {
+                position: fixed;
+                left: 2px;
+                bottom: 2px;
+                width: 10%;
+                background-color: rgb(250, 211, 113);
+                text-align: left;
+            }
