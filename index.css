@@ -99,6 +99,6 @@
                 position: absolute;
                 left: 25%;
                 border-bottom: 2px solid rgb(196, 196, 196);
-                display: inline;
+                display: block;
                 padding-bottom: 3px;
             }
