@@ -84,7 +84,13 @@
                 background-color: rgb(250, 211, 113, 0.5);
                 text-align: left;
             }
+            
             .link {
                 text-decoration: none;
                 color: black;
+            }
+            
+            .blog-post {
+                padding-left: 25%;
+                width: 33%; 
             }
