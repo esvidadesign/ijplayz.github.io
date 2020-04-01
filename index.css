@@ -96,8 +96,8 @@
             }
             
             .blog-title {
-	    position: absolute;
-	    left: 25%;
+	        position: absolute;
+	        left: 25%;
                 border-bottom: 2px solid rgb(196, 196, 196);
                 display: inline;
                 padding-bottom: 3px;
