@@ -9,11 +9,10 @@
                 font-weight: bold;
                 font-family: Corbel, "Calibri Light". -apple-system;
             }
-            #about-us {
+
+            .titles {
                 font-weight: bold;
                 font-size: 30px;
-                
-                
             }
             
             #about-us-text {
@@ -21,7 +20,7 @@
             }
             
             .top {
-                font-family: Corbel;
+                font-family: Corbel, "Calibri Light", -apple-system;
                 text-decoration: none;
                 color: black;
                 padding-left: 20px;
@@ -32,6 +31,10 @@
             a:hover {
                 color: rgb(161, 159, 161);
                 text-decoration: underline;
+            }
+            
+            .large-img {
+                width: 25%;
             }
             
             .medium-img {
